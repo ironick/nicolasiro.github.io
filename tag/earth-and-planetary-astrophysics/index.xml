@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Earth and Planetary Astrophysics | Nicolas Iro</title><link>https://ironick.github.io/tag/earth-and-planetary-astrophysics.html</link><atom:link href="https://ironick.github.io/tag/earth-and-planetary-astrophysics/index.xml" rel="self" type="application/rss+xml"/><description>Earth and Planetary Astrophysics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://ironick.github.io/media/logo_hu3811882414585691295.png</url><title>Earth and Planetary Astrophysics</title><link>https://ironick.github.io/tag/earth-and-planetary-astrophysics.html</link></image><item><title>First JWST thermal phase curves of temperate terrestrial exoplanets reveal no thick atmosphere around TRAPPIST-1 b and c</title><link>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</guid><description>&lt;p>We report JWST/MIRI 15 μm phase curves of TRAPPIST-1 b and c, revealing
+thermal emission consistent with their irradiation levels, assuming no efficient
+heat redistribution. We find that TRAPPIST-1 b shows a high dayside brightness temperature
+(490 ± 17 K), no significantly detectable nightside emission (F[b, Night,
+max] = 39_-27^+55 ppm), and no phase offset &amp;ndash; features consistent with a low-albedo,
+airless ultramafic rocky surface. TRAPPIST-1 c exhibits a lower dayside brightness
+temperature (369 ± 23 K), and a nightside flux statistically indistinguishable
+from that of TRAPPIST-1 b (F[c, Night, max] = 62_-43^+60 ppm). Atmosphere models
+with surface pressures $≥$1 bar and efficient greenhouse effects are strongly disfavoured
+for both planets. TRAPPIST-1 b is unlikely to possess any substantial atmosphere,
+while TRAPPIST-1 c may retain a tenuous, greenhouse-poor O$_2$-dominated atmosphere
+or be similarly airless with a more reflective surface. These results suggest divergent
+evolutionary pathways or atmospheric loss processes, despite similar compositions.
+These measurements tightly constrain atmosphere retention in the inner TRAPPIST-1
+system.&lt;/p></description></item><item><title>Limb Asymmetries on WASP-39b: A Multi-GCM Comparison of Chemistry, Clouds, and Hazes</title><link>https://ironick.github.io/publications/2025-ar-xiv-250921588-s.html</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ar-xiv-250921588-s.html</guid><description>&lt;p>With JWST, observing separate spectra of the morning and evening limbs of
+hot Jupiters has finally become a reality. The first such observation was reported
+for WASP-39b, where the evening terminator was observed to have a larger transit
+radius by about 400 ppm and a stronger 4.3 μm CO2 feature than the morning
+terminator. Multiple factors, including temperature differences, photo/thermochemistry,
+clouds and hazes, could cause such limb asymmetries. To interpret these new limb
+asymmetry observations, a detailed understanding of how the relevant processes affect
+morning and evening spectra grounded in forward models is needed. Focusing on WASP-39b,
+we compare simulations from five different general circulation models (GCMs), including
+one simulating disequilibrium thermochemistry and one with cloud radiative feedback,
+to the recent WASP-39b limb asymmetry observations. We also post-process the temperature
+structures of all simulations with a 2D photochemical model and one simulation with
+a cloud microphysics model. Although the temperatures predicted by the different
+models vary considerably, the models are remarkably consistent in their predicted
+morning&amp;ndash;evening temperature differences. Several equilibrium-chemistry simulations
+predict strong methane features in the morning spectrum, not seen in the observations.
+When including disequilibrium processes, horizontal transport homogenizes methane,
+and these methane features disappear. However, even after including photochemistry
+and clouds, our models still cannot reproduce the observed ∼2000 ppm asymmetry
+in the CO2 feature. A combination of factors, such as varying metallicity and
+unexplored parameters in cloud models, may explain the discrepancy, emphasizing
+the need for future models integrating cloud microphysics and feedback across a
+broader parameter space.&lt;/p></description></item><item><title>Dark skies of the slightly eccentric WASP-18 b from its optical-to-infrared dayside emission</title><link>https://ironick.github.io/publications/2025-aa-699-a-150-d.html</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-aa-699-a-150-d.html</guid><description>&lt;p>Context. Ultra-hot Jupiters (UHJs) are gas giant exoplanets that are strongly
+irradiated by their star, setting intense molecular dissociation that leads to atmospheric
+chemistry dominated by ions and atoms. These conditions inhibit day-to-night heat
+redistribution, which results in high temperature contrasts. Phase-curve observations
+over several passbands offer insights on the thermal structure and properties of
+these extreme atmospheres. Aims. We aim to perform a joint analysis of multiple
+observations of WASP-18 b from the visible to the mid- infrared, using data from
+CHEOPS, TESS, and Spitzer. Our purpose is to characterise the planetary atmosphere
+with a consistent view over the large wavelength range covered, including JWST data.
+Methods. We implemented a model for the planetary signal including transits, occultations,
+phase signal, ellipsoidal variations, Doppler boosting, and light travel time. We
+performed a joint fit of more than 250 eclipse events and derived the atmospheric
+properties using general circulation models (GCMs) and retrieval analyses. Results.
+We obtained new ephemerides with unprecedented precisions of 1 second and 1.4 millisecond
+on the time of inferior conjunction and orbital period, respectively. We computed
+a planetary radius of R $_ p $ = 1.1926 ensuremath± 0.0077 R $_ J $ with a precision
+of 0.65% (or 550 km). Based on a timing inconsistency with JWST, we discuss and
+confirm the orbital eccentricity (e = 0.00852 ensuremath± 0.00091). We also constrain
+the argument of periastron to ensuremathømega = 261.9$_‑1.4$ $^+1.3$ deg. We show
+that the large dayside emission implies the presence of magnetic drag and super-solar
+metallicity. We find a steep thermally inverted gradient in the planetary atmosphere,
+which is common for UHJs. We detected the presence of strong CO emission lines at
+4.5 ensuremathμm from an excess of dayside brightness in the Spitzer/IRAC/Channel
+2 passband. Using these models to constrain the reflected contribution in the CHEOPS
+passband, we derived an extremely low geometric albedo of A$_g$ $^CHEOPS$ = 0.027
+ensuremath± 0.011. Conclusions. The orbital eccentricity remains a potential challenge
+for planetary dynamics that might require further study given the short-period massive
+planet and despite the young age of the system. The characterisation of the atmosphere
+of WASP-18 b reveals the necessity to account for magnetic friction and super-solar
+metallicity to explain the full picture of the dayside emission. We find the planetary
+dayside to be extremely unreflective; however, when juxtaposing TESS and CHEOPS
+data, we get hints of increased scattering efficiency in the visible, likely due
+to Rayleigh scattering.&lt;/p></description></item></channel></rss>

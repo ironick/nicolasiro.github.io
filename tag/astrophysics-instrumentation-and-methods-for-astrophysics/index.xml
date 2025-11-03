@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Astrophysics - Instrumentation and Methods for Astrophysics | Nicolas Iro</title><link>https://ironick.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics.html</link><atom:link href="https://ironick.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics/index.xml" rel="self" type="application/rss+xml"/><description>Astrophysics - Instrumentation and Methods for Astrophysics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://ironick.github.io/media/logo_hu3811882414585691295.png</url><title>Astrophysics - Instrumentation and Methods for Astrophysics</title><link>https://ironick.github.io/tag/astrophysics-instrumentation-and-methods-for-astrophysics.html</link></image><item><title>The PLATO mission</title><link>https://ironick.github.io/publications/2025-ex-a-59-26-r.html</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ex-a-59-26-r.html</guid><description>&lt;p>PLATO (PLAnetary Transits and Oscillations of stars) is ESA&amp;rsquo;s M3 mission
+designed to detect and characterise extrasolar planets and perform asteroseismic
+monitoring of a large number of stars. PLATO will detect small planets (down to
+&amp;lt;2REarth) around bright stars (&amp;lt;11 mag), including terrestrial planets in the habitable
+zone of solar-like stars. With the complement of radial velocity observations from
+the ground, planets will be characterised for their radius, mass, and age with high
+accuracy (5%, 10%, 10% for an Earth-Sun combination respectively). PLATO will provide
+us with a large-scale catalogue of well-characterised small planets up to intermediate
+orbital periods, relevant for a meaningful comparison to planet formation theories
+and to better understand planet evolution. It will make possible comparative exoplanetology
+to place our Solar System planets in a broader context. In parallel, PLATO will
+study (host) stars using asteroseismology, allowing us to determine the stellar
+properties with high accuracy, substantially enhancing our knowledge of stellar
+structure and evolution. The payload instrument consists of 26 cameras with 12cm
+aperture each. For at least four years, the mission will perform high-precision
+photometric measurements. Here we review the science objectives, present PLATO&amp;rsquo;s
+target samples and fields, provide an overview of expected core science performance
+as well as a description of the instrument and the mission profile towards the end
+of the serial production of the flight cameras. PLATO is scheduled for a launch
+date end 2026. This overview therefore provides a summary of the mission to the
+community in preparation of the upcoming operational phases.&lt;/p></description></item><item><title>The CUISINES Framework for Conducting Exoplanet Model Intercomparison Projects, Version 1.0</title><link>https://ironick.github.io/publications/2024-psj-5-175-s.html</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2024-psj-5-175-s.html</guid><description>&lt;p>As JWST begins to return observations, it is more important than ever that
+exoplanet climate models can consistently and correctly predict the observability
+of exoplanets, retrieval of their data, and interpretation of planetary environments
+from that data. Model intercomparisons play a crucial role in this context, especially
+now when few data are available to validate model predictions. The CUISINES Working
+Group of NASA&amp;rsquo;s Nexus for Exoplanet Systems Science supports a systematic approach
+to evaluating the performance of exoplanet models and provides here a framework
+for conducting community-organized exoplanet model intercomparison projects (exoMIPs).
+The CUISINES framework adapts Earth climate community practices specifically for
+the needs of the exoplanet researchers, encompassing a range of model types, planetary
+targets, and parameter space studies. It is intended to help researchers to work
+collectively, equitably, and openly toward common goals. The CUISINES framework
+rests on five principles: (1) define in advance what research question(s) the
+exoMIP is intended to address, (2) create an experimental design that maximizes
+community participation and advertise it widely, (3) plan a project timeline that
+allows all exoMIP members to participate fully, (4) generate data products from
+model output for direct comparison to observations, and (5) create a data management
+plan that is workable in the present and scalable for the future. Within the first
+years of its existence, CUISINES is already providing logistical support to 10
+exoMIPs and will continue to host annual workshops for further community feedback
+and presentation of new exoMIP ideas.&lt;/p></description></item><item><title>A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST</title><link>https://ironick.github.io/publications/2024-nat-as-8-810-t.html</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2024-nat-as-8-810-t.html</guid><description>&lt;p>Ultracool dwarf stars are abundant, long-lived and uniquely suited to enable
+the atmospheric study of transiting terrestrial companions with the JWST. Among
+them, the most prominent is the M8.5V star TRAPPIST-1 and its seven planets. While
+JWST Cycle 1 observations have started to yield preliminary insights into the planets,
+they have also revealed that their atmospheric exploration requires a better understanding
+of their host star. Here we propose a roadmap to characterize the TRAPPIST-1 system
+— and others like it — in an efficient and robust manner with JWST. We notably recommend
+that — although more challenging to schedule — multi-transit windows be prioritized
+to mitigate the effects of stellar activity and gather up to twice more transits
+per JWST hour spent. We conclude that, for such systems, planets cannot be studied
+in isolation by small programmes but rather need large-scale, joint space- and ground-
+based initiatives to fully exploit the capabilities of JWST for the exploration
+of terrestrial planets.&lt;/p></description></item><item><title>Nightside clouds and disequilibrium chemistry on the hot Jupiter WASP-43b</title><link>https://ironick.github.io/publications/2024-nat-as-8-879-b.html</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2024-nat-as-8-879-b.html</guid><description>&lt;p>Hot Jupiters are among the best-studied exoplanets, but it is still poorly
+understood how their chemical composition and cloud properties vary with longitude.
+Theoretical models predict that clouds may condense on the nightside and that molecular
+abundances can be driven out of equilibrium by zonal winds. Here we report a phase-resolved
+emission spectrum of the hot Jupiter WASP-43b measured from 5 ensuremathμm to 12
+ensuremathμm with the JWST&amp;rsquo;s Mid-Infrared Instrument. The spectra reveal a large
+day-night temperature contrast (with average brightness temperatures of 1,524 ensuremath±
+35 K and 863 ensuremath± 23 K, respectively) and evidence for water absorption at
+all orbital phases. Comparisons with three- dimensional atmospheric models show
+that both the phase-curve shape and emission spectra strongly suggest the presence
+of nightside clouds that become optically thick to thermal emission at pressures
+greater than åisebox-0.5ex~100 mbar. The dayside is consistent with a cloudless
+atmosphere above the mid-infrared photosphere. Contrary to expectations from equilibrium
+chemistry but consistent with disequilibrium kinetics models, methane is not detected
+on the nightside (2ensuremathσ upper limit of 1-6 ppm, depending on model assumptions).
+Our results provide strong evidence that the atmosphere of WASP-43b is shaped by
+disequilibrium processes and provide new insights into the properties of the planet&amp;rsquo;s
+nightside clouds. However, the remaining discrepancies between our observations
+and our predictive atmospheric models emphasize the importance of further exploring
+the effects of clouds and disequilibrium chemistry in numerical models.&lt;/p></description></item><item><title>A broadband thermal emission spectrum of the ultra-hot Jupiter WASP-18b</title><link>https://ironick.github.io/publications/2023-natur-620-292-c.html</link><pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2023-natur-620-292-c.html</guid><description>&lt;p>Close-in giant exoplanets with temperatures greater than 2,000 K (&amp;lsquo;ultra-hot
+Jupiters&amp;rsquo;) have been the subject of extensive efforts to determine their atmospheric
+properties using thermal emission measurements from the Hubble Space Telescope (HST)
+and Spitzer Space Telescope$^1-3$. However, previous studies have yielded inconsistent
+results because the small sizes of the spectral features and the limited information
+content of the data resulted in high sensitivity to the varying assumptions made
+in the treatment of instrument systematics and the atmospheric retrieval analysis$^3-12$.
+Here we present a dayside thermal emission spectrum of the ultra-hot Jupiter WASP-18b
+obtained with the NIRISS$^13$ instrument on the JWST. The data span 0.85 to 2.85
+ensuremathμm in wavelength at an average resolving power of 400 and exhibit minimal
+systematics. The spectrum shows three water emission features (at &amp;gt;6σ
+confidence) and evidence for optical opacity, possibly attributable to H$^-$,
+TiO and VO (combined significance of 3.8σ). Models that fit the data require
+a thermal inversion, molecular dissociation as predicted by chemical equilibrium,
+a solar heavy-element abundance (&amp;lsquo;metallicity&amp;rsquo;, M/H =1.0 3$_-0.51$$^+1.11$
+times solar) and a carbon- to-oxygen (C/O) ratio less than unity. The data also
+yield a dayside brightness temperature map, which shows a peak in temperature near
+the substellar point that decreases steeply and symmetrically with longitude towards
+the terminators.&lt;/p></description></item><item><title>Early Release Science of the exoplanet WASP-39b with JWST NIRCam</title><link>https://ironick.github.io/publications/2023-natur-614-653-a.html</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2023-natur-614-653-a.html</guid><description>&lt;p>Measuring the metallicity and carbon-to-oxygen (C/O) ratio in exoplanet
+atmospheres is a fundamental step towards constraining the dominant chemical processes
+at work and, if in equilibrium, revealing planet formation histories. Transmission
+spectroscopy (for example, refs. $^1,2$) provides the necessary means by constraining
+the abundances of oxygen- and carbon-bearing species; however, this requires broad
+wavelength coverage, moderate spectral resolution and high precision, which, together,
+are not achievable with previous observatories. Now that JWST has commenced science
+operations, we are able to observe exoplanets at previously uncharted wavelengths
+and spectral resolutions. Here we report time-series observations of the transiting
+exoplanet WASP-39b using JWST&amp;rsquo;s Near InfraRed Camera (NIRCam). The long-wavelength
+spectroscopic and short- wavelength photometric light curves span 2.0-4.0 micrometres,
+exhibit minimal systematics and reveal well defined molecular absorption features
+in the planet&amp;rsquo;s spectrum. Specifically, we detect gaseous water in the atmosphere
+and place an upper limit on the abundance of methane. The otherwise prominent carbon
+dioxide feature at 2.8 micrometres is largely masked by water. The best-fit chemical
+equilibrium models favour an atmospheric metallicity of 1-100-times solar (that
+is, an enrichment of elements heavier than helium relative to the Sun) and a substellar
+C/O ratio. The inferred high metallicity and low C/O ratio may indicate significant
+accretion of solid materials during planet formation (for example, refs. $^3,4$$^,$)
+or disequilibrium processes in the upper atmosphere (for example, refs. $^5,6$).&lt;/p></description></item><item><title>Early Release Science of the exoplanet WASP-39b with JWST NIRISS</title><link>https://ironick.github.io/publications/2023-natur-614-670-f.html</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2023-natur-614-670-f.html</guid><description>&lt;p>The Saturn-mass exoplanet WASP-39b has been the subject of extensive efforts
+to determine its atmospheric properties using transmission spectroscopy$^1-4$. However,
+these efforts have been hampered by modelling degeneracies between composition and
+cloud properties that are caused by limited data quality$^5-9$. Here we present
+the transmission spectrum of WASP-39b obtained using the Single-Object Slitless
+Spectroscopy (SOSS) mode of the Near Infrared Imager and Slitless Spectrograph (NIRISS)
+instrument on the JWST. This spectrum spans 0.6-2.8 ensuremathμm in wavelength and
+shows several water-absorption bands, the potassium resonance doublet and signatures
+of clouds. The precision and broad wavelength coverage of NIRISS/SOSS allows us
+to break model degeneracies between cloud properties and the atmospheric composition
+of WASP-39b, favouring a heavy-element enhancement (`metallicity&amp;rsquo;) of about 10-30
+times the solar value, a sub-solar carbon-to- oxygen (C/O) ratio and a solar-to-super-solar
+potassium-to- oxygen (K/O) ratio. The observations are also best explained by wavelength-dependent,
+non-grey clouds with inhomogeneous coverageof the planet&amp;rsquo;s terminator.&lt;/p></description></item><item><title>Early Release Science of the exoplanet WASP-39b with JWST NIRSpec G395H</title><link>https://ironick.github.io/publications/2023-natur-614-664-a.html</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2023-natur-614-664-a.html</guid><description>&lt;p>Measuring the abundances of carbon and oxygen in exoplanet atmospheres is
+considered a crucial avenue for unlocking the formation and evolution of exoplanetary
+systems$^1,2$. Access to the chemical inventory of an exoplanet requires high-precision
+observations, often inferred from individual molecular detections with low-resolution
+space-based$^3-5$ and high- resolution ground-based$^6-8$ facilities. Here we report
+the medium-resolution (R ensuremath≈ 600) transmission spectrum of an exoplanet
+atmosphere between 3 and 5 ensuremathμm covering several absorption features for
+the Saturn-mass exoplanet WASP-39b (ref. $^9$), obtained with the Near Infrared
+Spectrograph (NIRSpec) G395H grating of JWST. Our observations achieve 1.46 times
+photon precision, providing an average transit depth uncertainty of 221 ppm per
+spectroscopic bin, and present minimal impacts from systematic effects. We detect
+significant absorption from CO$_2$ (28.5ensuremathσ) and H$_2$O (21.5ensuremathσ),
+and identify SO$_2$ as the source of absorption at 4.1 ensuremathμm (4.8ensuremathσ).
+Best-fit atmospheric models range between 3 and 10 times solar metallicity, with
+sub-solar to solar C/O ratios. These results, including the detection of SO$_2$,
+underscore the importance of characterizing the chemistry in exoplanet atmospheres
+and showcase NIRSpec G395H as an excellent mode for time-series observations over
+this critical wavelength range$^10$.&lt;/p></description></item><item><title>Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM</title><link>https://ironick.github.io/publications/2023-natur-614-659-r.html</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2023-natur-614-659-r.html</guid><description>&lt;p>Transmission spectroscopy$^1-3$ of exoplanets has revealed signatures of
+water vapour, aerosols and alkali metals in a few dozen exoplanet atmospheres$^4,5$.
+However, these previous inferences with the Hubble and Spitzer Space Telescopes
+were hindered by the observations&amp;rsquo; relatively narrow wavelength range and spectral
+resolving power, which precluded the unambiguous identification of other chemical
+species—in particular the primary carbon-bearing molecules$^6,7$. Here we report
+a broad-wavelength 0.5-5.5 textmum atmospheric transmission spectrum of WASP-39b$^8$,
+a 1,200 K, roughly Saturn-mass, Jupiter-radius exoplanet, measured with the JWST
+NIRSpec&amp;rsquo;s PRISM mode$^9$ as part of the JWST Transiting Exoplanet Community Early
+Release Science Team Program$^10-12$. We robustly detect several chemical species
+at high significance, including Na (19σ), H$_2$O (33σ), CO$_2$
+(28σ) and CO (7σ). The non-detection of CH$_4$, combined with
+a strong CO$_2$ feature, favours atmospheric models with a super-solar atmospheric
+metallicity. An unanticipated absorption feature at 4 textmum is best explained
+by SO$_2$ (2.7σ), which could be a tracer of atmospheric photochemistry.
+These observations demonstrate JWST&amp;rsquo;s sensitivity to a rich diversity of exoplanet
+compositions and chemical processes.&lt;/p></description></item><item><title>On the Volatile Enrichments and Heavy Element Content in HD189733b</title><link>https://ironick.github.io/publications/2011-ap-j-727-77-m.html</link><pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2011-ap-j-727-77-m.html</guid><description>&lt;p>Add the &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> for the publication here using Markdown formatting.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheops | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/cheops.html</link>
+      <atom:link href="http://localhost:1313/tag/cheops/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheops</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Cheops</title>
+      <link>http://localhost:1313/tag/cheops.html</link>
+    </image>
+    
+    <item>
+      <title>Cheops</title>
+      <link>http://localhost:1313/research/cheops.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/cheops.html</guid>
+      <description>&lt;p&gt;Cheops is the first small class mission satellite from ESA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

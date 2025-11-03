@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outreach | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/outreach.html</link>
+      <atom:link href="http://localhost:1313/tag/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Outreach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Outreach</title>
+      <link>http://localhost:1313/tag/outreach.html</link>
+    </image>
+    
+    <item>
+      <title>LAMMPS Tutorials has just been published</title>
+      <link>http://localhost:1313/news/2025-lammps-tutorials.html</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2025-lammps-tutorials.html</guid>
+      <description>&lt;p&gt;The content of lammpstutorials.github.io has just been published in my favorite
+journal, the Living Journal of Computational Molecular Science (LiveCoMS).&lt;/p&gt;
+&lt;p&gt;LiveCoMS is a diamond open access journal (free to read and free to publish)
+that allows articles to evolve over time with updated versions. This was the
+ideal choice for these LAMMPS tutorials, which have been constantly growing
+and improving since their creation about 5 years ago.&lt;/p&gt;
+&lt;p&gt;I’m also glad to see that the number of contributors to LAMMPS tutorials
+keeps expanding, now even including members of the LAMMPS development team.&lt;/p&gt;
+&lt;p&gt;See the content here: &lt;a href=&#34;https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3037&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3037&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Focus on Learn Molecular Simulation with Python</title>
+      <link>http://localhost:1313/news/2024-mdcourse.html</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-mdcourse.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mdcourse.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn Molecular Simulations with Python&lt;/a&gt;
+is designed as a step-by-step guide to developing simple Python code that
+includes the basic functionalities of molecular dynamics and Monte Carlo
+simulations. The main goal is to help users understand the fundamentals of
+molecular simulation algorithms. The scripts will also be used for small
+scientific projects. In particular, some of the earliest results obtained
+from molecular simulations, including the pioneering works by Metropolis,
+Rosenbluth, Wood, and Parker in the 1950s, will be re-explored.&lt;/p&gt;
+&lt;p&gt;If you want to take part in the project, reach out to me on
+&lt;a href=&#34;https://github.com/mdcourse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. I am looking for contributors
+(co-writers, testers).&lt;/p&gt;
+&lt;p&gt;This project has received funding from the European Union&amp;rsquo;s Horizon 2020
+research and innovation programme under the Marie Skłodowska-Curie grant
+agreement No 101065060.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

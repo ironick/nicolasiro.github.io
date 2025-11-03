@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MAGNETOHYDRODYNAMICS | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/magnetohydrodynamics.html</link>
+      <atom:link href="http://localhost:1313/tag/magnetohydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>MAGNETOHYDRODYNAMICS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>MAGNETOHYDRODYNAMICS</title>
+      <link>http://localhost:1313/tag/magnetohydrodynamics.html</link>
+    </image>
+    
+    <item>
+      <title>Application of an analytical MHD wind model with latitudinal dependences to the solar wind</title>
+      <link>http://localhost:1313/publications/2001-esasp-493-269-l.html</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2001-esasp-493-269-l.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

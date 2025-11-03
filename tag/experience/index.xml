@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experience | Nicolas Iro</title><link>https://ironick.github.io/tag/experience.html</link><atom:link href="https://ironick.github.io/tag/experience/index.xml" rel="self" type="application/rss+xml"/><description>Experience</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ironick.github.io/media/logo_hu3811882414585691295.png</url><title>Experience</title><link>https://ironick.github.io/tag/experience.html</link></image><item><title>Postdoctoral Researcher 2022--2025</title><link>https://ironick.github.io/cv/dlr.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ironick.github.io/cv/dlr.html</guid><description>&lt;p>
+&lt;i class="fas fa-globe pr-1 fa-fw">&lt;/i> Institute for Planetary Research - German Aerospace Center (DLR), Berlin, DE.&lt;/p>
+&lt;p>INCREASE (INfluence of strong stellar particle event and galactic Cosmic Rays on Exoplanetary AtmoSpherEs), Contact: J. L. Grenfell.&lt;/p>
+&lt;p>Tasks:&lt;/p>
+&lt;ul>
+&lt;li>Studying the effect of energetic particles on the atmospheres of exoplanets.&lt;/li>
+&lt;li>Adding new features to the 1D climate model 1D-TERRA.&lt;/li>
+&lt;li>Migrating it from SVN to git framework.&lt;/li>
+&lt;li>Participating in international consortia such as Cheops, PLATO, ARIEL, JWST.&lt;/li>
+&lt;li>Leading an intercomparison effort for hot Jupiter climate models.&lt;/li>
+&lt;/ul></description></item><item><title>Postdoctoral Researcher 2017--2022</title><link>https://ironick.github.io/cv/vienna.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ironick.github.io/cv/vienna.html</guid><description>&lt;p>
+&lt;i class="fas fa-globe pr-1 fa-fw">&lt;/i> Astrophysics Department - University of Vienna, Austria.&lt;/p>
+&lt;p>Pathways to Habitability, Contact: M. Güdel&lt;/p>
+&lt;p>Tasks:&lt;/p>
+&lt;ul>
+&lt;li>Using a hierarchy of models in order to study planetary atmospheres and habitability:&lt;/li>
+&lt;li>1D radiative transfer (to be combined with upper atmosphere),&lt;/li>
+&lt;li>3D radiative transfer (PHOENIX)&lt;/li>
+&lt;li>3D General Circulation Model (Plasim / PUMA)&lt;/li>
+&lt;li>Teaching&lt;/li>
+&lt;/ul></description></item><item><title>Postdoctoral Researcher 2012--2027</title><link>https://ironick.github.io/cv/hamburg.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ironick.github.io/cv/hamburg.html</guid><description>&lt;p>
+&lt;i class="fas fa-globe pr-1 fa-fw">&lt;/i> Theoretical Meteorology Group, Klimacampus - University of Hamburg, Germany.&lt;/p>
+&lt;p>Planetary Atmospheres research, Contact: V. Lucarini&lt;/p>
+&lt;p>Tasks:&lt;/p>
+&lt;ul>
+&lt;li>Expending the expertise of the Group by developing a new Planetary Atmosphere division.&lt;/li>
+&lt;li>Studying the diverse radiation and circulation regimes of exoplanets - from Hot Jupiters to Earth-like planets.&lt;/li>
+&lt;li>Responsible of modifying the radiative transfer schemes in the PlanetSimulator and PUMA exoplanets GCM codes.&lt;/li>
+&lt;/ul></description></item></channel></rss>
