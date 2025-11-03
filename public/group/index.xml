@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Groups | Nicolas Iro</title>
+    <link>http://localhost:1313/group/index.html</link>
+      <atom:link href="http://localhost:1313/group/index.xml" rel="self" type="application/rss+xml" />
+    <description>Groups</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Groups</title>
+      <link>http://localhost:1313/group/index.html</link>
+    </image>
+    
+    <item>
+      <title>Marcelle B. M. Spera</title>
+      <link>http://localhost:1313/group/marcelle.html</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group/marcelle.html</guid>
+      <description>&lt;p&gt;Research associate on the MicroSep project since September 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sasha (Aleksandra) Ardaševa</title>
+      <link>http://localhost:1313/group/sasha.html</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group/sasha.html</guid>
+      <description>&lt;p&gt;Research associate on the MIAM-CO2 project since May 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pablo Grisanti</title>
+      <link>http://localhost:1313/group/pablo.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group/pablo.html</guid>
+      <description>&lt;p&gt;PhD candidate at LIPhy, Université Grenoble Alpes, since April 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
