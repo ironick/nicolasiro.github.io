@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/job.html</link>
+      <atom:link href="http://localhost:1313/tag/job/index.xml" rel="self" type="application/rss+xml" />
+    <description>Job</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Job</title>
+      <link>http://localhost:1313/tag/job.html</link>
+    </image>
+    
+    <item>
+      <title>PostDoc Position Available in LIPhy (Filled)</title>
+      <link>http://localhost:1313/news/2024-postdoc-offer.html</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2024-postdoc-offer.html</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Scope.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Polymers are versatile, durable, and cost-effective materials essential in packaging, construction, and electronics. Polymers of Intrinsic Microporosity (PIMs) represent a special class with rigid ring-shaped molecules forming interconnected voids of 0.2 to 2 nanometers. PIMs have high specific surface areas and are scalable, making them ideal for gas adsorption and mixture separation. However, only a few fluid mixtures can currently be separated using nanoporous materials, with most methods still relying on costly thermal processes such as distillation. Developing new nanopore-based separation processes could address environmental issues such as water contamination and CO2 emissions. To facilitate the emergence of these new processes, a better understanding of the complex behaviors of nanoconfined fluid mixtures is crucial. Achieving this goal requires novel multiscale approaches to connect the molecular details of confined molecules at the nanoscale to macroscopic transport properties. The aim of this postdoctoral position is to correlate the molecular properties of fluid mixtures in a microporous polymer with its large-scale permeability and selectivity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Activities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of realistic models of mixtures in microporous polymers using molecular simulations.&lt;/li&gt;
+&lt;li&gt;Characterization of the structural and dynamic properties of confined fluids and their interactions with polymer surfaces.&lt;/li&gt;
+&lt;li&gt;Upscaling of molecular results to the macroscopic scale using a lattice-based approach.&lt;/li&gt;
+&lt;li&gt;Utilization of the lattice model to predict the macroscopic permeability and selectivity of PIM membranes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The postdoctoral candidate must hold a PhD in physics, statistical mechanics, physical chemistry, or materials science, and have some experience in scientific programming and molecular simulations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Work Context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LIPhy is an interdisciplinary physics laboratory that brings together experts in the theory and experimentation of soft matter systems and fluids at interfaces. Located in Grenoble, LIPhy is surrounded by physics, chemistry, and biology laboratories, offering potential collaboration opportunities with experimental groups (SAXS, SANS, etc.) based on the candidate&amp;rsquo;s interests.&lt;/p&gt;
+&lt;p&gt;The position is located in a sector under the protection of scientific and technical potential (PPST), and therefore requires, in accordance with the regulations, that your arrival is authorized by the competent authority of the MESR.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Starting date&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;February 2025, or after.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apply.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Candicates can apply from the &lt;a href=&#34;https://emploi.cnrs.fr/Offres/CDD/UMR5588-SIMGRA-001/Default.aspx?lang=EN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRS website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

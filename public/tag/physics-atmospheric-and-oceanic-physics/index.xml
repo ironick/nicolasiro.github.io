@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics - Atmospheric and Oceanic Physics | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/physics-atmospheric-and-oceanic-physics.html</link>
+      <atom:link href="http://localhost:1313/tag/physics-atmospheric-and-oceanic-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics - Atmospheric and Oceanic Physics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Physics - Atmospheric and Oceanic Physics</title>
+      <link>http://localhost:1313/tag/physics-atmospheric-and-oceanic-physics.html</link>
+    </image>
+    
+    <item>
+      <title>Habitability and Multistability in Earth-like Planets</title>
+      <link>http://localhost:1313/publications/2013-an-334-576-l.html</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2013-an-334-576-l.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

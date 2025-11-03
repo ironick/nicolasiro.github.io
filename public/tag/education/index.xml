@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/education.html</link>
+      <atom:link href="http://localhost:1313/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Education</title>
+      <link>http://localhost:1313/tag/education.html</link>
+    </image>
+    
+    <item>
+      <title>PhD in Astrophysics</title>
+      <link>http://localhost:1313/cv/1_phd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/1_phd.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; University Paris VI, 2005.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master in Astrophysics</title>
+      <link>http://localhost:1313/cv/0_master.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/0_master.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; University Paris VI, 2001.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

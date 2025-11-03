@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods: Observational | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/methods-observational.html</link>
+      <atom:link href="http://localhost:1313/tag/methods-observational/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods: Observational</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Methods: Observational</title>
+      <link>http://localhost:1313/tag/methods-observational.html</link>
+    </image>
+    
+    <item>
+      <title>Transmission spectroscopy of the sodium &#39;D&#39; doublet in WASP-17b with the VLT</title>
+      <link>http://localhost:1313/publications/2011-mnras-412-2376-w.html</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2011-mnras-412-2376-w.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

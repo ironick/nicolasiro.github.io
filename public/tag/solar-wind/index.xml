@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar Wind | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/solar-wind.html</link>
+      <atom:link href="http://localhost:1313/tag/solar-wind/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solar Wind</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Solar Wind</title>
+      <link>http://localhost:1313/tag/solar-wind.html</link>
+    </image>
+    
+    <item>
+      <title>Nonradial and nonpolytropic astrophysical outflows. VII. Fitting ULYSSES solar wind data during minimum</title>
+      <link>http://localhost:1313/publications/2005-aa-432-687-s.html</link>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2005-aa-432-687-s.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

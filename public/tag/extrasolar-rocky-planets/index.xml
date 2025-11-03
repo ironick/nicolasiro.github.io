@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extrasolar Rocky Planets | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/extrasolar-rocky-planets.html</link>
+      <atom:link href="http://localhost:1313/tag/extrasolar-rocky-planets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Extrasolar Rocky Planets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Extrasolar Rocky Planets</title>
+      <link>http://localhost:1313/tag/extrasolar-rocky-planets.html</link>
+    </image>
+    
+    <item>
+      <title>The CUISINES Framework for Conducting Exoplanet Model Intercomparison Projects, Version 1.0</title>
+      <link>http://localhost:1313/publications/2024-psj-5-175-s.html</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-psj-5-175-s.html</guid>
+      <description>&lt;p&gt;As JWST begins to return observations, it is more important than ever that
+exoplanet climate models can consistently and correctly predict the observability
+of exoplanets, retrieval of their data, and interpretation of planetary environments
+from that data. Model intercomparisons play a crucial role in this context, especially
+now when few data are available to validate model predictions. The CUISINES Working
+Group of NASA&amp;rsquo;s Nexus for Exoplanet Systems Science supports a systematic approach
+to evaluating the performance of exoplanet models and provides here a framework
+for conducting community-organized exoplanet model intercomparison projects (exoMIPs).
+The CUISINES framework adapts Earth climate community practices specifically for
+the needs of the exoplanet researchers, encompassing a range of model types, planetary
+targets, and parameter space studies. It is intended to help researchers to work
+collectively, equitably, and openly toward common goals. The CUISINES framework
+rests on five principles: (1) define in advance what research question(s) the
+exoMIP is intended to address, (2) create an experimental design that maximizes
+community participation and advertise it widely, (3) plan a project timeline that
+allows all exoMIP members to participate fully, (4) generate data products from
+model output for direct comparison to observations, and (5) create a data management
+plan that is workable in the present and scalable for the future. Within the first
+years of its existence, CUISINES is already providing logistical support to 10
+exoMIPs and will continue to host annual workshops for further community feedback
+and presentation of new exoMIP ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Cosmic Rays on Atmospheric Ion Chemistry and Spectral Transmission Features of TRAPPIST-1e</title>
+      <link>http://localhost:1313/publications/2024-ap-j-961-164-h.html</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ap-j-961-164-h.html</guid>
+      <description>&lt;p&gt;Ongoing observing projects like the James Webb Space Telescope and future
+missions offer the chance to characterize Earth-like exoplanetary atmospheres. Thereby,
+M dwarfs are preferred targets for transit observations, for example, due to their
+favorable planet–star contrast ratio. However, the radiation and particle environment
+of these cool stars could be far more extreme than what we know from the Sun. Thus,
+knowing the stellar radiation and particle environment and its possible influence
+on detectable biosignatures—in particular, signs of life like ozone and methane—is
+crucial to understanding upcoming transit spectra. In this study, with the help
+of our unique model suite INCREASE, we investigate the impact of a strong stellar
+energetic particle event on the atmospheric ionization, neutral and ion chemistry,
+and atmospheric biosignatures of TRAPPIST-1e. Therefore, transit spectra for six
+scenarios are simulated. We find that a Carrington-like event drastically increases
+atmospheric ionization and induces substantial changes in ion chemistry and spectral
+transmission features: all scenarios show high event- induced amounts of nitrogen
+dioxide (i.e., at 6.2 ensuremathμm), a reduction of the atmospheric transit depth
+in all water bands (i.e., at 5.5–7.0 ensuremathμm), a decrease of the methane bands
+(i.e., at 3.0–3.5 ensuremathμm), and depletion of ozone (i.e., at ensuremath∼9.6
+ensuremathμm). Therefore, it is essential to include high-energy particle effects
+to correctly assign biosignature signals from, e.g., ozone and methane. We further
+show that the nitric acid feature at 11.0–12.0 ensuremathμm, discussed as a proxy
+for stellar particle contamination, is absent in wet-dead atmospheres.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

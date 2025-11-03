@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planets and Satellites: Gaseous Planets | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/planets-and-satellites-gaseous-planets.html</link>
+      <atom:link href="http://localhost:1313/tag/planets-and-satellites-gaseous-planets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planets and Satellites: Gaseous Planets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Planets and Satellites: Gaseous Planets</title>
+      <link>http://localhost:1313/tag/planets-and-satellites-gaseous-planets.html</link>
+    </image>
+    
+    <item>
+      <title>Understanding the atmospheric properties and chemical composition of the ultra-hot Jupiter HAT-P-7b. III. Changing ionisation and the emergence of an ionosphere</title>
+      <link>http://localhost:1313/publications/2021-aa-648-a-80-h.html</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-aa-648-a-80-h.html</guid>
+      <description>&lt;p&gt;Context. Ultra-hot Jupiters are the hottest exoplanets that have been discovered
+so far. They present a unique possibility to explore hot and cold chemistry on
+one object. The tidally locked ultra- hot Jupiter HAT-P-7b has a day-to-night
+temperature difference of ≃2500 K, confining cloud formation to the nightside
+and efficient ionisation to the dayside. Both have distinct observational signatures.
+Aims: We analyse plasma and magnetic processes in the atmosphere of the ultra-hot
+Jupiter HAT-P-7b to investigate the formation of an ionosphere and the possibility
+of magnetically coupling the atmospheric gas as the base for an extended exosphere.
+We show which ions and atoms may be used as spectral tracers, and if and where
+conditions for lightning may occur within the clouds of HAT-P-7b.  Methods: We
+used 3D modelling results as input for a kinetic cloud formation code and evaluated
+characteristic plasma and magnetic coupling parameters. A local thermodynamical
+equilibrium radiative transfer was solved for the ionised gas phase. This study&lt;br&gt;
+is confined to thermal ionisation only.  Results: The ionisation throughout HAT-P-7b&amp;rsquo;s
+atmosphere varies drastically between day- and nightside. The dayside has high
+levels of thermal ionisation and long-range electromagnetic interactions dominate
+over kinetic electron-neutral interactions, suggesting a day-night difference
+in magnetic coupling. K$^+$, Na$^+$, Li$^+$, Ca$^+$, and Al$^+$ are more abundant
+than their atomic counterparts on the dayside. The minimum magnetic flux density
+for electrons for magnetic coupling is B &amp;lt; 0.5 G for all regions of HAT-P-7b&amp;rsquo;s
+atmosphere.  Conclusions: HAT-P-7b&amp;rsquo;s dayside has an asymmetric ionosphere that
+extends deep into the atmosphere, the nightside has no thermally driven ionosphere.
+A corresponding asymmetry is imprinted in the ion and neutral composition at the
+terminators. The ionosphere on HAT-P-7b may be directly traced by the Ca$^+$ H&amp;amp;K
+lines if the local temperature is ensuremath≥5000 K. The whole atmosphere may
+couple to a global, large-scale magnetic field, and lightning may occur on the
+nightside.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the atmospheric properties and chemical composition of the ultra-hot Jupiter HAT-P-7b. II. Mapping the effects of gas kinetics</title>
+      <link>http://localhost:1313/publications/2020-aa-635-a-31-m.html</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-aa-635-a-31-m.html</guid>
+      <description>&lt;p&gt;Aims: The atmospheres of ultra-hot Jupiters (UHJs) are commonly considered
+to be at thermochemical equilibrium. We aim to provide disequilibrium chemistry
+maps for a global understanding of the chemistry in the atmosphere of HAT-P-7b and
+assess the importance of disequilibrium chemistry on UHJs.  Methods: We applied
+a hierarchical modeling approach using 97 1D atmospheric profiles from a 3D general
+circulation model of HAT-P-7b. For each atmospheric 1D profile, we evaluated our
+kinetic cloud formation model consistently with the local gas-phase composition
+in chemical equilibrium. This served as input to study the quenching of dominating
+CHNO- binding molecules. We evaluated quenching results from a zeroth- order approximation
+in comparison to a kinetic gas-phase approach.  Results: We find that the zeroth-order
+approach of estimating quenching points agrees well with the full gas-kinetic modeling
+results. However, it underestimates the quenching levels by about one order of magnitude
+at high temperatures. Chemical disequilibrium has the greatest effect on the nightside
+and morning abundance of species such as H, H$_2$O, CH$_4$, CO$_2$, HCN, and all
+C$_n$H$_m$ molecules; heavier C$_n$H$_m$ molecules are more affected by disequilibrium
+processes. The CO abundance, however, is affected only marginally. While dayside
+abundances also notably change, those around the evening terminator of HAT-P-7b
+are the least affected by disequilibrium processes. The latter finding may partially
+explain the consistency of observed transmission spectra of UHJs with atmospheres
+in thermochemical equilibrium. Photochemistry only negligibly affects molecular
+abundances and quenching levels.  Conclusions: In general, the quenching points
+of the atmosphere of HAT-P-7b are at much lower pressures than in the cooler hot-jupiters.
+We propose several avenues to determining the effect of disequilibrium processes
+on UHJs that are in general based on abundance and opacity measurements at different
+local times. It remains a challenge to completely disentangle this from the chemical
+effects of clouds and that of a primordial nonsolar abundance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

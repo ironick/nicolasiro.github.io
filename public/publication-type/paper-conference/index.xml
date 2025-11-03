@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Nicolas Iro</title>
+    <link>http://localhost:1313/publication-type/paper-conference.html</link>
+      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication-type/paper-conference.html</link>
+    </image>
+    
+    <item>
+      <title>Large Interferometer for Exoplanets (LIFE): characterizing the mid-infrared thermal emission of terrestrial exoplanets</title>
+      <link>http://localhost:1313/publications/2024-eguga-2615544-l.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-eguga-2615544-l.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Stellar Energetic Particles effects on the atmospheres of terrestrial (exo)planets: INCREASE</title>
+      <link>http://localhost:1313/publications/2024-eguga-2619629-g.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-eguga-2619629-g.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the Circulation of Hot exoplanet Atmospheres (MOCHA): exhaustive comparison of 3D models for hot Jupiters</title>
+      <link>http://localhost:1313/publications/2024-eguga-2618914-i.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-eguga-2618914-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CUISINES 2024 menu: Updates and progress on a large exoplanet model intercomparison framework</title>
+      <link>http://localhost:1313/publications/2024-eguga-26-6826-f.html</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-eguga-26-6826-f.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of energetic particles on the atmosphere of terrestrial exoplanets</title>
+      <link>http://localhost:1313/publications/2023-eguga-2517476-i.html</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-eguga-2517476-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the atmosphere of potential habitable planets</title>
+      <link>http://localhost:1313/publications/2020-iaus-345-172-i.html</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-iaus-345-172-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmission Spectroscopy of HAT-P-32Ab with GTC/OSIRIS</title>
+      <link>http://localhost:1313/publications/2015-ess-311120-n.html</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2015-ess-311120-n.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of tidal heating on exo-planet atmosphere dynamics and chemistry</title>
+      <link>http://localhost:1313/publications/2014-spih-conf-e-28-s.html</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-spih-conf-e-28-s.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CH4/CO ratio of the hot Uranus GJ 3470b</title>
+      <link>http://localhost:1313/publications/2013-epsc-8-125-v.html</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2013-epsc-8-125-v.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nitrogen Chemistry in Hot Jupiters Atmosphere</title>
+      <link>http://localhost:1313/publications/2013-assp-35-67-v.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2013-assp-35-67-v.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of circulation winds on the atmospheric chemistry of the hot Jupiter HD 209458b</title>
+      <link>http://localhost:1313/publications/2012-epsc-conf-885-a.html</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-epsc-conf-885-a.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo-thermo-chemistry of hot atmospheres</title>
+      <link>http://localhost:1313/publications/2012-epsc-conf-223-v.html</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-epsc-conf-223-v.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time dependent model for the hot exoplanet WASP-18b</title>
+      <link>http://localhost:1313/publications/2011-epsc-conf-543-i.html</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2011-epsc-conf-543-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spitzer Lightcurves of WASP-18</title>
+      <link>http://localhost:1313/publications/2011-ess-2-4402-m.html</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2011-ess-2-4402-m.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints On The Volatile Enrichments In Hd189733b From Internal Structure Models</title>
+      <link>http://localhost:1313/publications/2010-dps-42-5603-m.html</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2010-dps-42-5603-m.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haze And Cloud Structure In Saturn&#39;s Southern Hemisphere From The Cassini/cirs Observations</title>
+      <link>http://localhost:1313/publications/2009-dps-41-6811-i.html</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2009-dps-41-6811-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-dependent radiative model for the atmosphere of the eccentric transiting planets</title>
+      <link>http://localhost:1313/publications/2009-iaus-253-516-i.html</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2009-iaus-253-516-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time-dependent Model For The Atmosphere Of The Eccentric Exoplanets</title>
+      <link>http://localhost:1313/publications/2008-dps-40-1104-i.html</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2008-dps-40-1104-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cassini/cirs Observations Of Saturn At 7.18 Microns</title>
+      <link>http://localhost:1313/publications/2007-dps-39-3708-i.html</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2007-dps-39-3708-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmospheric signatures by transit of HD209458 with VLT/UVES</title>
+      <link>http://localhost:1313/publications/2007-epsc-conf-815-i.html</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2007-epsc-conf-815-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for exospheric signatures from the atmosphere of HD209458b</title>
+      <link>http://localhost:1313/publications/2006-tafp-conf-251-i.html</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2006-tafp-conf-251-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmospheric signatures by transit of HD209458 with VLT/UVES</title>
+      <link>http://localhost:1313/publications/2006-dies-conf-171-c.html</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2006-dies-conf-171-c.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planet formation: constraints from transiting extrasolar planets</title>
+      <link>http://localhost:1313/publications/2006-epsc-conf-120-g.html</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2006-epsc-conf-120-g.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Signatures from the Atmosphere of HD209458 with VLT/UVES</title>
+      <link>http://localhost:1313/publications/2005-prpl-conf-8003-c.html</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2005-prpl-conf-8003-c.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time Dependent Model of HD209458b</title>
+      <link>http://localhost:1313/publications/2004-aspc-321-207-i.html</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2004-aspc-321-207-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Exospheric Signatures from Transiting Planets</title>
+      <link>http://localhost:1313/publications/2004-aspc-321-209-i.html</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2004-aspc-321-209-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time-dependant atmospheric model of HD209458b</title>
+      <link>http://localhost:1313/publications/2004-dps-36-4206-i.html</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2004-dps-36-4206-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transit Spectroscopy of Extrasolar Planet HD209458b: The Radiative Transfer Model</title>
+      <link>http://localhost:1313/publications/2004-dps-36-3501-r.html</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2004-dps-36-3501-r.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time Dependent Equilibrium Model of HD209458b</title>
+      <link>http://localhost:1313/publications/2003-dps-35-0712-i.html</link>
+      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2003-dps-35-0712-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLT Spectroscopy of HD209458b Transits</title>
+      <link>http://localhost:1313/publications/2003-aspc-294-475-m.html</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2003-aspc-294-475-m.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Radiative Equilibrium Model of HD209458b</title>
+      <link>http://localhost:1313/publications/2002-dps-34-4207-i.html</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2002-dps-34-4207-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLT spectroscopy of HD209458b transits</title>
+      <link>http://localhost:1313/publications/2002-sf-2-a-conf-589-m.html</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2002-sf-2-a-conf-589-m.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Absorption of Stellar Flux In Hot Jupiters</title>
+      <link>http://localhost:1313/publications/2002-egsga-27-6358-i.html</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2002-egsga-27-6358-i.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clathrates In The Solar Nebula: An Interpretation of The Atomic Abundances In Comets and Jupiter</title>
+      <link>http://localhost:1313/publications/2002-egsga-27-5744-g.html</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2002-egsga-27-5744-g.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of an analytical MHD wind model with latitudinal dependences to the solar wind</title>
+      <link>http://localhost:1313/publications/2001-esasp-493-269-l.html</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2001-esasp-493-269-l.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

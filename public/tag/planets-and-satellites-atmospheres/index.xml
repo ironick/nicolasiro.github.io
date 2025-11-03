@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planets and Satellites: Atmospheres | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/planets-and-satellites-atmospheres.html</link>
+      <atom:link href="http://localhost:1313/tag/planets-and-satellites-atmospheres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planets and Satellites: Atmospheres</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Planets and Satellites: Atmospheres</title>
+      <link>http://localhost:1313/tag/planets-and-satellites-atmospheres.html</link>
+    </image>
+    
+    <item>
+      <title>Dark skies of the slightly eccentric WASP-18 b from its optical-to-infrared dayside emission</title>
+      <link>http://localhost:1313/publications/2025-aa-699-a-150-d.html</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-aa-699-a-150-d.html</guid>
+      <description>&lt;p&gt;Context. Ultra-hot Jupiters (UHJs) are gas giant exoplanets that are strongly
+irradiated by their star, setting intense molecular dissociation that leads to atmospheric
+chemistry dominated by ions and atoms. These conditions inhibit day-to-night heat
+redistribution, which results in high temperature contrasts. Phase-curve observations
+over several passbands offer insights on the thermal structure and properties of
+these extreme atmospheres. Aims. We aim to perform a joint analysis of multiple
+observations of WASP-18 b from the visible to the mid- infrared, using data from
+CHEOPS, TESS, and Spitzer. Our purpose is to characterise the planetary atmosphere
+with a consistent view over the large wavelength range covered, including JWST data.
+Methods. We implemented a model for the planetary signal including transits, occultations,
+phase signal, ellipsoidal variations, Doppler boosting, and light travel time. We
+performed a joint fit of more than 250 eclipse events and derived the atmospheric
+properties using general circulation models (GCMs) and retrieval analyses. Results.
+We obtained new ephemerides with unprecedented precisions of 1 second and 1.4 millisecond
+on the time of inferior conjunction and orbital period, respectively. We computed
+a planetary radius of R $_ p $ = 1.1926 ensuremath± 0.0077 R $_ J $ with a precision
+of 0.65% (or 550 km). Based on a timing inconsistency with JWST, we discuss and
+confirm the orbital eccentricity (e = 0.00852 ensuremath± 0.00091). We also constrain
+the argument of periastron to ensuremathømega = 261.9$_‑1.4$ $^+1.3$ deg. We show
+that the large dayside emission implies the presence of magnetic drag and super-solar
+metallicity. We find a steep thermally inverted gradient in the planetary atmosphere,
+which is common for UHJs. We detected the presence of strong CO emission lines at
+4.5 ensuremathμm from an excess of dayside brightness in the Spitzer/IRAC/Channel
+2 passband. Using these models to constrain the reflected contribution in the CHEOPS
+passband, we derived an extremely low geometric albedo of A$_g$ $^CHEOPS$ = 0.027
+ensuremath± 0.011. Conclusions. The orbital eccentricity remains a potential challenge
+for planetary dynamics that might require further study given the short-period massive
+planet and despite the young age of the system. The characterisation of the atmosphere
+of WASP-18 b reveals the necessity to account for magnetic friction and super-solar
+metallicity to explain the full picture of the dayside emission. We find the planetary
+dayside to be extremely unreflective; however, when juxtaposing TESS and CHEOPS
+data, we get hints of increased scattering efficiency in the visible, likely due
+to Rayleigh scattering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of a biosphere on the habitable timespan of stagnant-lid planets and implications for the atmospheric spectrum</title>
+      <link>http://localhost:1313/publications/2025-aa-693-a-205-h.html</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-aa-693-a-205-h.html</guid>
+      <description>&lt;p&gt;Temperature-dependent biological productivity controls silicate weathering
+and thereby extends the potential habitable timespan of Earth. Models and theoretical
+considerations indicate that the runaway greenhouse on Earth-like exoplanets is
+generally accompanied by a dramatic increase in atmospheric H$_2$O and CO$_2$, which
+might be observed with the upcoming generation of space telescopes. If an active
+biosphere extends the habitable timespan of exoplanets similarly to Earth, observing
+the atmospheric spectra of exoplanets near the inner edge of the habitable zone
+could then give insights into whether the planet is inhabited. Here, we explore
+this idea for Earth-like stagnant-lid planets. We find that while for a reduced
+mantle, a surface biosphere extends the habitable timespan of the planet by about
+1 Gyr, for more oxidising conditions, the biologically enhanced rate of weathering
+becomes increasingly compensated for by an increased supply rate of CO$_2$ to the
+atmosphere. Observationally, the resulting difference in atmospheric CO$_2$ near
+the inner edge of the habitable zone is clearly distinguishable between biotic planets
+with active weathering and abiotic planets that have experienced a runaway greenhouse.
+For an efficient hydrological cycle, the increased bioproductivity also leads to
+a CH$_4$ biosignature observable with JWST. As the planet becomes uninhabitable,
+the H$_2$O infrared absorption bands dominate, but the 4.3-textmum CO$_2$ band remains
+a clear window into the CO$_2$ abundances. In summary, while the effect of life
+on the carbonate-silicate cycle leaves a record in the atmospheric spectrum of Earth-like
+stagnant-lid planets, future work is needed especially to determine the tectonic
+state and composition of exoplanets and to push forward the development of the next
+generation of space telescopes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the atmospheric properties and chemical composition of the ultra-hot Jupiter HAT-P-7b. III. Changing ionisation and the emergence of an ionosphere</title>
+      <link>http://localhost:1313/publications/2021-aa-648-a-80-h.html</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-aa-648-a-80-h.html</guid>
+      <description>&lt;p&gt;Context. Ultra-hot Jupiters are the hottest exoplanets that have been discovered
+so far. They present a unique possibility to explore hot and cold chemistry on
+one object. The tidally locked ultra- hot Jupiter HAT-P-7b has a day-to-night
+temperature difference of ≃2500 K, confining cloud formation to the nightside
+and efficient ionisation to the dayside. Both have distinct observational signatures.
+Aims: We analyse plasma and magnetic processes in the atmosphere of the ultra-hot
+Jupiter HAT-P-7b to investigate the formation of an ionosphere and the possibility
+of magnetically coupling the atmospheric gas as the base for an extended exosphere.
+We show which ions and atoms may be used as spectral tracers, and if and where
+conditions for lightning may occur within the clouds of HAT-P-7b.  Methods: We
+used 3D modelling results as input for a kinetic cloud formation code and evaluated
+characteristic plasma and magnetic coupling parameters. A local thermodynamical
+equilibrium radiative transfer was solved for the ionised gas phase. This study&lt;br&gt;
+is confined to thermal ionisation only.  Results: The ionisation throughout HAT-P-7b&amp;rsquo;s
+atmosphere varies drastically between day- and nightside. The dayside has high
+levels of thermal ionisation and long-range electromagnetic interactions dominate
+over kinetic electron-neutral interactions, suggesting a day-night difference
+in magnetic coupling. K$^+$, Na$^+$, Li$^+$, Ca$^+$, and Al$^+$ are more abundant
+than their atomic counterparts on the dayside. The minimum magnetic flux density
+for electrons for magnetic coupling is B &amp;lt; 0.5 G for all regions of HAT-P-7b&amp;rsquo;s
+atmosphere.  Conclusions: HAT-P-7b&amp;rsquo;s dayside has an asymmetric ionosphere that
+extends deep into the atmosphere, the nightside has no thermally driven ionosphere.
+A corresponding asymmetry is imprinted in the ion and neutral composition at the
+terminators. The ionosphere on HAT-P-7b may be directly traced by the Ca$^+$ H&amp;amp;K
+lines if the local temperature is ensuremath≥5000 K. The whole atmosphere may
+couple to a global, large-scale magnetic field, and lightning may occur on the
+nightside.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the atmospheric properties and chemical composition of the ultra-hot Jupiter HAT-P-7b. II. Mapping the effects of gas kinetics</title>
+      <link>http://localhost:1313/publications/2020-aa-635-a-31-m.html</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-aa-635-a-31-m.html</guid>
+      <description>&lt;p&gt;Aims: The atmospheres of ultra-hot Jupiters (UHJs) are commonly considered
+to be at thermochemical equilibrium. We aim to provide disequilibrium chemistry
+maps for a global understanding of the chemistry in the atmosphere of HAT-P-7b and
+assess the importance of disequilibrium chemistry on UHJs.  Methods: We applied
+a hierarchical modeling approach using 97 1D atmospheric profiles from a 3D general
+circulation model of HAT-P-7b. For each atmospheric 1D profile, we evaluated our
+kinetic cloud formation model consistently with the local gas-phase composition
+in chemical equilibrium. This served as input to study the quenching of dominating
+CHNO- binding molecules. We evaluated quenching results from a zeroth- order approximation
+in comparison to a kinetic gas-phase approach.  Results: We find that the zeroth-order
+approach of estimating quenching points agrees well with the full gas-kinetic modeling
+results. However, it underestimates the quenching levels by about one order of magnitude
+at high temperatures. Chemical disequilibrium has the greatest effect on the nightside
+and morning abundance of species such as H, H$_2$O, CH$_4$, CO$_2$, HCN, and all
+C$_n$H$_m$ molecules; heavier C$_n$H$_m$ molecules are more affected by disequilibrium
+processes. The CO abundance, however, is affected only marginally. While dayside
+abundances also notably change, those around the evening terminator of HAT-P-7b
+are the least affected by disequilibrium processes. The latter finding may partially
+explain the consistency of observed transmission spectra of UHJs with atmospheres
+in thermochemical equilibrium. Photochemistry only negligibly affects molecular
+abundances and quenching levels.  Conclusions: In general, the quenching points
+of the atmosphere of HAT-P-7b are at much lower pressures than in the cooler hot-jupiters.
+We propose several avenues to determining the effect of disequilibrium processes
+on UHJs that are in general based on abundance and opacity measurements at different
+local times. It remains a challenge to completely disentangle this from the chemical
+effects of clouds and that of a primordial nonsolar abundance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the atmospheric properties and chemical composition of the ultra-hot Jupiter HAT-P-7b. I. Cloud and chemistry mapping</title>
+      <link>http://localhost:1313/publications/2019-aa-631-a-79-h.html</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-aa-631-a-79-h.html</guid>
+      <description>&lt;p&gt;Context. Of the presently known ensuremath≈3900 exoplanets, sparse spectral
+observations are available for ensuremath≈100. Ultra-hot Jupiters have recently
+attracted interest from observers and theoreticians alike, as they provide observationally
+accessible test cases. Confronting detailed theoretical models with observations
+is of preeminent importance in preparation for upcoming space-based telescopes.  Aims:
+We aim to study cloud formation on the ultra-hot Jupiter HAT-P-7b, the resulting
+composition of the local gas phase, and how their global changes affect wavelength-
+dependent observations utilised to derive fundamental properties of the planet.  Methods:
+We apply a hierarchical modelling approach as a virtual laboratory to study cloud
+formation and gas-phase chemistry. We utilise 97 vertical 1D profiles of a 3D GCM
+for HAT-P-7b to evaluate our kinetic cloud formation model consistently with the
+local equilibrium gas- phase composition. We use maps and slice views to provide
+a global understanding of the cloud and gas chemistry.  Results: The day/night temperature
+difference on HAT-P-7b (ensuremathΔT ensuremath≈ 2500 K) causes clouds to form on
+the nightside (dominated by H$_2$/He) while the dayside (dominated by H/He) retains
+cloud-free equatorial regions. The cloud particles vary in composition and size
+throughout the vertical extension of the cloud, but also globally. TiO$_2$[s]/Al$_2$O$_3$[s]/CaTiO$_3$[s]-particles
+of cm- sized radii occur in the higher dayside-latitudes, resulting in a dayside
+dominated by gas-phase opacity. The opacity on the nightside, however, is dominated
+by 0.01textellipsis0.1ensuremathμm particles made of a material mix dominated by
+silicates. The gas pressure at which the atmosphere becomes optically thick is 10$^-4$
+bar in cloudy regions, and 0.1 bar in cloud-free regions.  Conclusions: HAT-P-7b
+features strong morning/evening terminator asymmetries, providing an example of
+patchy clouds and azimuthally-inhomogeneous chemistry. Variable terminator properties
+may be accessible by ingress/egress transmission photometry (e.g., CHEOPS and PLATO)
+or spectroscopy. The large temperature differences of ensuremath≈2500 K result in
+an increasing geometrical extension from the night- to the dayside. The H$_2$O abundance
+at the terminator changes by &amp;lt;1 dex with altitude and ensuremathłesssim0.3 dex (a
+factor of 2) across the terminator for a given pressure, indicating that H$_2$O
+abundances derived from transmission spectra can be representative of the well-mixed
+metallicity at P ensuremathgtrsim 10 bar. We suggest the atmospheric C/O as an important
+tool to trace the presence and location of clouds in exoplanet atmospheres. The
+atmospheric C/O can be sub- and supersolar due to cloud formation. Phase curve variability
+of HAT-P-7b is unlikely to be caused by dayside clouds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GTC exoplanet transit spectroscopy survey. VIII. Flat transmission spectrum for the warm gas giant WASP-80b</title>
+      <link>http://localhost:1313/publications/2018-aa-609-a-33-p.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2018-aa-609-a-33-p.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GTC exoplanet transit spectroscopy survey . VII. An optical transmission spectrum of WASP-48b</title>
+      <link>http://localhost:1313/publications/2017-aa-605-a-114-m.html</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2017-aa-605-a-114-m.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GTC exoplanet transit spectroscopy survey. IV. Confirmation of the flat transmission spectrum of HAT-P-32b</title>
+      <link>http://localhost:1313/publications/2016-aa-594-a-65-n.html</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-aa-594-a-65-n.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GTC exoplanet transit spectroscopy survey. III. No asymmetries in the transit of CoRoT-29b</title>
+      <link>http://localhost:1313/publications/2016-aa-589-a-62-p.html</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-aa-589-a-62-p.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GTC exoplanet transit spectroscopy survey. II. An overly large Rayleigh-like feature for exoplanet TrES-3b</title>
+      <link>http://localhost:1313/publications/2016-aa-585-a-114-p.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2016-aa-585-a-114-p.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Further Constraints on the Optical Transmission Spectrum of HAT-P-1b</title>
+      <link>http://localhost:1313/publications/2015-ap-j-811-55-m.html</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2015-ap-j-811-55-m.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The atmospheric chemistry of the warm Neptune GJ 3470b: Influence of metallicity and temperature on the CH$_4$/CO ratio</title>
+      <link>http://localhost:1313/publications/2014-aa-562-a-51-v.html</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-aa-562-a-51-v.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Puzzling Chemical Composition of GJ 436b&#39;s Atmosphere: Influence of Tidal Heating on the Chemistry</title>
+      <link>http://localhost:1313/publications/2014-ap-j-781-68-a.html</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2014-ap-j-781-68-a.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spitzer 3.6 and 4.5 ensuremathμm full-orbit light curves of WASP-18</title>
+      <link>http://localhost:1313/publications/2013-mnras-428-2645-m.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2013-mnras-428-2645-m.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of atmospheric circulation on the chemistry of the hot Jupiter HD 209458b</title>
+      <link>http://localhost:1313/publications/2012-aa-548-a-73-a.html</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-aa-548-a-73-a.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A chemical model for the atmosphere of hot Jupiters</title>
+      <link>http://localhost:1313/publications/2012-aa-546-a-43-v.html</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-aa-546-a-43-v.html</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

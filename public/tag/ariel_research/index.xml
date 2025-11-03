@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARIEL_research | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/ariel_research.html</link>
+      <atom:link href="http://localhost:1313/tag/ariel_research/index.xml" rel="self" type="application/rss+xml" />
+    <description>ARIEL_research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>ARIEL_research</title>
+      <link>http://localhost:1313/tag/ariel_research.html</link>
+    </image>
+    
+    <item>
+      <title>ARIEL</title>
+      <link>http://localhost:1313/research/ariel.html</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ariel.html</guid>
+      <description>&lt;p&gt;Cheops is the first small class mission satellite from ESA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

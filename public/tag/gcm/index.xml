@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GCM | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/gcm.html</link>
+      <atom:link href="http://localhost:1313/tag/gcm/index.xml" rel="self" type="application/rss+xml" />
+    <description>GCM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>GCM</title>
+      <link>http://localhost:1313/tag/gcm.html</link>
+    </image>
+    
+    <item>
+      <title>Climate modelling</title>
+      <link>http://localhost:1313/research/gcm.html</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/gcm.html</guid>
+      <description>&lt;p&gt;With the first JWST data already available, and ARIEL in the near future, we are expecting to get a lot of time-varying measurements of exoplanets (e.g. phase curves and 3D eclipse maps), giving us unprecedented information about their climate. Hot Jupiters will be the best targets for atmosphere characterisation with these facilities.&lt;/p&gt;
+&lt;p&gt;3D atmospheric circulation models are the main tools to interpret theoretically these upcoming observations. However, various models have been developed, with  different assumptions and setup. Some characteristics of the outputs are then dependent on the model used, impairing physical interpretation. It is therefore necessary to assess the differences, limits and applicability of each model.&lt;/p&gt;
+&lt;p&gt;I am leading the first extensive and systematic intercomparision of hot Jupiter 3D circulation models. Our team is built from the experts developing all available codes,  in order to set up a common benchmark methodology. Our intercomparison project will provide the exoplanet community with better and more robust tools to retrieve physical information from JWST data, and later ARIEL.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planetary Atmospheres | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/planetary-atmospheres.html</link>
+      <atom:link href="http://localhost:1313/tag/planetary-atmospheres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planetary Atmospheres</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Planetary Atmospheres</title>
+      <link>http://localhost:1313/tag/planetary-atmospheres.html</link>
+    </image>
+    
+    <item>
+      <title>The CUISINES Framework for Conducting Exoplanet Model Intercomparison Projects, Version 1.0</title>
+      <link>http://localhost:1313/publications/2024-psj-5-175-s.html</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-psj-5-175-s.html</guid>
+      <description>&lt;p&gt;As JWST begins to return observations, it is more important than ever that
+exoplanet climate models can consistently and correctly predict the observability
+of exoplanets, retrieval of their data, and interpretation of planetary environments
+from that data. Model intercomparisons play a crucial role in this context, especially
+now when few data are available to validate model predictions. The CUISINES Working
+Group of NASA&amp;rsquo;s Nexus for Exoplanet Systems Science supports a systematic approach
+to evaluating the performance of exoplanet models and provides here a framework
+for conducting community-organized exoplanet model intercomparison projects (exoMIPs).
+The CUISINES framework adapts Earth climate community practices specifically for
+the needs of the exoplanet researchers, encompassing a range of model types, planetary
+targets, and parameter space studies. It is intended to help researchers to work
+collectively, equitably, and openly toward common goals. The CUISINES framework
+rests on five principles: (1) define in advance what research question(s) the
+exoMIP is intended to address, (2) create an experimental design that maximizes
+community participation and advertise it widely, (3) plan a project timeline that
+allows all exoMIP members to participate fully, (4) generate data products from
+model output for direct comparison to observations, and (5) create a data management
+plan that is workable in the present and scalable for the future. Within the first
+years of its existence, CUISINES is already providing logistical support to 10
+exoMIPs and will continue to host annual workshops for further community feedback
+and presentation of new exoMIP ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

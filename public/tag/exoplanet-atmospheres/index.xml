@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exoplanet Atmospheres | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/exoplanet-atmospheres.html</link>
+      <atom:link href="http://localhost:1313/tag/exoplanet-atmospheres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exoplanet Atmospheres</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Exoplanet Atmospheres</title>
+      <link>http://localhost:1313/tag/exoplanet-atmospheres.html</link>
+    </image>
+    
+    <item>
+      <title>The CUISINES Framework for Conducting Exoplanet Model Intercomparison Projects, Version 1.0</title>
+      <link>http://localhost:1313/publications/2024-psj-5-175-s.html</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-psj-5-175-s.html</guid>
+      <description>&lt;p&gt;As JWST begins to return observations, it is more important than ever that
+exoplanet climate models can consistently and correctly predict the observability
+of exoplanets, retrieval of their data, and interpretation of planetary environments
+from that data. Model intercomparisons play a crucial role in this context, especially
+now when few data are available to validate model predictions. The CUISINES Working
+Group of NASA&amp;rsquo;s Nexus for Exoplanet Systems Science supports a systematic approach
+to evaluating the performance of exoplanet models and provides here a framework
+for conducting community-organized exoplanet model intercomparison projects (exoMIPs).
+The CUISINES framework adapts Earth climate community practices specifically for
+the needs of the exoplanet researchers, encompassing a range of model types, planetary
+targets, and parameter space studies. It is intended to help researchers to work
+collectively, equitably, and openly toward common goals. The CUISINES framework
+rests on five principles: (1) define in advance what research question(s) the
+exoMIP is intended to address, (2) create an experimental design that maximizes
+community participation and advertise it widely, (3) plan a project timeline that
+allows all exoMIP members to participate fully, (4) generate data products from
+model output for direct comparison to observations, and (5) create a data management
+plan that is workable in the present and scalable for the future. Within the first
+years of its existence, CUISINES is already providing logistical support to 10
+exoMIPs and will continue to host annual workshops for further community feedback
+and presentation of new exoMIP ideas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of Carbon Monoxide&#39;s 4.6 Micron Fundamental Band Structure in WASP-39b&#39;s Atmosphere with JWST NIRSpec G395H</title>
+      <link>http://localhost:1313/publications/2023-ap-j-949-l-15-g.html</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-ap-j-949-l-15-g.html</guid>
+      <description>&lt;p&gt;Carbon monoxide (CO) is predicted to be the dominant carbon-bearing molecule
+in giant planet atmospheres and, along with water, is important for discerning the
+oxygen and therefore carbon-to- oxygen ratio of these planets. The fundamental absorption
+mode of CO has a broad, double-branched structure composed of many individual absorption
+lines from 4.3 to 5.1 ensuremathμm, which can now be spectroscopically measured
+with JWST. Here we present a technique for detecting the rotational sub-band structure
+of CO at medium resolution with the NIRSpec G395H instrument. We use a single transit
+observation of the hot Jupiter WASP-39b from the JWST Transiting Exoplanet Community
+Early Release Science (JTEC ERS) program at the native resolution of the instrument
+(R åisebox-0.5ex~ 2700) to resolve the CO absorption structure. We robustly detect
+absorption by CO, with an increase in transit depth of 264 ensuremath± 68 ppm, in
+agreement with the predicted CO contribution from the best-fit model at low resolution.
+This detection confirms our theoretical expectations that CO is the dominant carbon-bearing
+molecule in WASP-39b&amp;rsquo;s atmosphere and further supports the conclusions of low C/O
+and supersolar metallicities presented in the JTEC ERS papers for WASP-39b.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

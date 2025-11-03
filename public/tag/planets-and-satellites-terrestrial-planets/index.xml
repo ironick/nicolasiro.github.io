@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planets and Satellites: Terrestrial Planets | Nicolas Iro</title>
+    <link>http://localhost:1313/tag/planets-and-satellites-terrestrial-planets.html</link>
+      <atom:link href="http://localhost:1313/tag/planets-and-satellites-terrestrial-planets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planets and Satellites: Terrestrial Planets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Planets and Satellites: Terrestrial Planets</title>
+      <link>http://localhost:1313/tag/planets-and-satellites-terrestrial-planets.html</link>
+    </image>
+    
+    <item>
+      <title>The effect of a biosphere on the habitable timespan of stagnant-lid planets and implications for the atmospheric spectrum</title>
+      <link>http://localhost:1313/publications/2025-aa-693-a-205-h.html</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-aa-693-a-205-h.html</guid>
+      <description>&lt;p&gt;Temperature-dependent biological productivity controls silicate weathering
+and thereby extends the potential habitable timespan of Earth. Models and theoretical
+considerations indicate that the runaway greenhouse on Earth-like exoplanets is
+generally accompanied by a dramatic increase in atmospheric H$_2$O and CO$_2$, which
+might be observed with the upcoming generation of space telescopes. If an active
+biosphere extends the habitable timespan of exoplanets similarly to Earth, observing
+the atmospheric spectra of exoplanets near the inner edge of the habitable zone
+could then give insights into whether the planet is inhabited. Here, we explore
+this idea for Earth-like stagnant-lid planets. We find that while for a reduced
+mantle, a surface biosphere extends the habitable timespan of the planet by about
+1 Gyr, for more oxidising conditions, the biologically enhanced rate of weathering
+becomes increasingly compensated for by an increased supply rate of CO$_2$ to the
+atmosphere. Observationally, the resulting difference in atmospheric CO$_2$ near
+the inner edge of the habitable zone is clearly distinguishable between biotic planets
+with active weathering and abiotic planets that have experienced a runaway greenhouse.
+For an efficient hydrological cycle, the increased bioproductivity also leads to
+a CH$_4$ biosignature observable with JWST. As the planet becomes uninhabitable,
+the H$_2$O infrared absorption bands dominate, but the 4.3-textmum CO$_2$ band remains
+a clear window into the CO$_2$ abundances. In summary, while the effect of life
+on the carbonate-silicate cycle leaves a record in the atmospheric spectrum of Earth-like
+stagnant-lid planets, future work is needed especially to determine the tectonic
+state and composition of exoplanets and to push forward the development of the next
+generation of space telescopes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
