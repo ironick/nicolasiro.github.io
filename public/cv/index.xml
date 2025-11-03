@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs | Nicolas Iro</title>
+    <link>http://localhost:1313/cv/index.html</link>
+      <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cvs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
+      <title>Cvs</title>
+      <link>http://localhost:1313/cv/index.html</link>
+    </image>
+    
+    <item>
+      <title>PhD in Astrophysics</title>
+      <link>http://localhost:1313/cv/1_phd.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/1_phd.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; University Paris VI, 2005.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master in Astrophysics</title>
+      <link>http://localhost:1313/cv/0_master.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/0_master.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; University Paris VI, 2001.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher 2022--2025</title>
+      <link>http://localhost:1313/cv/dlr.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/dlr.html</guid>
+      <description>&lt;p&gt;
+   &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Institute for Planetary Research - German Aerospace Center (DLR), Berlin, DE.&lt;/p&gt;
+&lt;p&gt;INCREASE (INfluence of strong stellar particle event and galactic Cosmic Rays on Exoplanetary AtmoSpherEs), Contact: J. L. Grenfell.&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studying the effect of energetic particles on the atmospheres of exoplanets.&lt;/li&gt;
+&lt;li&gt;Adding new features to the 1D climate model 1D-TERRA.&lt;/li&gt;
+&lt;li&gt;Migrating it from SVN to git framework.&lt;/li&gt;
+&lt;li&gt;Participating in international consortia such as Cheops, PLATO, ARIEL, JWST.&lt;/li&gt;
+&lt;li&gt;Leading an intercomparison effort for hot Jupiter climate models.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher 2017--2022</title>
+      <link>http://localhost:1313/cv/vienna.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/vienna.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Astrophysics Department - University of Vienna, Austria.&lt;/p&gt;
+&lt;p&gt;Pathways to Habitability, Contact: M. Güdel&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using a hierarchy of models in order to study planetary atmospheres and habitability:&lt;/li&gt;
+&lt;li&gt;1D radiative transfer (to be combined with upper atmosphere),&lt;/li&gt;
+&lt;li&gt;3D radiative transfer (PHOENIX)&lt;/li&gt;
+&lt;li&gt;3D General Circulation Model (Plasim / PUMA)&lt;/li&gt;
+&lt;li&gt;Teaching&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher 2012--2027</title>
+      <link>http://localhost:1313/cv/hamburg.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/hamburg.html</guid>
+      <description>&lt;p&gt;
+   &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Theoretical Meteorology Group, Klimacampus - University of Hamburg, Germany.&lt;/p&gt;
+&lt;p&gt;Planetary Atmospheres research, Contact: V. Lucarini&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Expending the expertise of the Group by developing a new Planetary Atmosphere division.&lt;/li&gt;
+&lt;li&gt;Studying the diverse radiation and circulation regimes of exoplanets - from Hot Jupiters to Earth-like planets.&lt;/li&gt;
+&lt;li&gt;Responsible of modifying the radiative transfer schemes in the PlanetSimulator and PUMA exoplanets GCM codes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
