@@ -23,6 +23,6 @@ layout: "single"
 CHEOPS phase-folded phase curve.
 
 
-![alt](aa50939-24-fig2.tif)
+![alt](https://www.aanda.org/articles/aa/full_html/2025/07/aa50939-24/aa50939-24-fig2.jpg)
 
 See the [Article](/publications/2025-aa-699-a-150-d.html)
