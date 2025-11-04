@@ -2,14 +2,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="alt" srcset="
-/news/cheops-wasp-18b/aa50939-24-fig2_hu11593255282091944705.webp 400w,
-/news/cheops-wasp-18b/aa50939-24-fig2_hu1732099198866751099.webp 760w,
-/news/cheops-wasp-18b/aa50939-24-fig2_hu9491751415550587676.webp 1200w"
-src="../../news/cheops-wasp-18b/aa50939-24-fig2_hu11593255282091944705.webp"
-width="760"
-height="368"
-loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://www.aanda.org/articles/aa/full_html/2025/07/aa50939-24/aa50939-24-fig2.jpg" alt="alt" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>See the &lt;a href="../../publications/2025-aa-699-a-150-d.html">Article&lt;/a>&lt;/p></description></item></channel></rss>
