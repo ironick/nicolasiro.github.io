@@ -20,11 +20,11 @@
       <description>&lt;p&gt;We report JWST/MIRI 15 μm phase curves of TRAPPIST-1 b and c, revealing
 thermal emission consistent with their irradiation levels, assuming no efficient
 heat redistribution. We find that TRAPPIST-1 b shows a high dayside brightness temperature
-(490 ± 17 K), no significantly detectable nightside emission ($F_m̊ b, Night,
-max$ = $39_-27^+55$ ppm), and no phase offset &amp;ndash; features consistent with a low-albedo,
+(490 ± 17 K), no significantly detectable nightside emission (F[b, Night,
+max] = 39_-27^+55 ppm), and no phase offset &amp;ndash; features consistent with a low-albedo,
 airless ultramafic rocky surface. TRAPPIST-1 c exhibits a lower dayside brightness
-temperature (369 $±$ 23 K), and a nightside flux statistically indistinguishable
-from that of TRAPPIST-1 b ($F_ ̊c, Night, max$ = $62_-43^+60$ ppm). Atmosphere models
+temperature (369 ± 23 K), and a nightside flux statistically indistinguishable
+from that of TRAPPIST-1 b (F[c, Night, max] = 62_-43^+60 ppm). Atmosphere models
 with surface pressures $≥$1 bar and efficient greenhouse effects are strongly disfavoured
 for both planets. TRAPPIST-1 b is unlikely to possess any substantial atmosphere,
 while TRAPPIST-1 c may retain a tenuous, greenhouse-poor O$_2$-dominated atmosphere
@@ -40,7 +40,29 @@ system.&lt;/p&gt;
       <link>http://localhost:1313/publications/2025-ar-xiv-250921588-s.html</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/2025-ar-xiv-250921588-s.html</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+      <description>&lt;p&gt;With JWST, observing separate spectra of the morning and evening limbs of
+hot Jupiters has finally become a reality. The first such observation was reported
+for WASP-39b, where the evening terminator was observed to have a larger transit
+radius by about 400 ppm and a stronger 4.3 μm CO2 feature than the morning
+terminator. Multiple factors, including temperature differences, photo/thermochemistry,
+clouds and hazes, could cause such limb asymmetries. To interpret these new limb
+asymmetry observations, a detailed understanding of how the relevant processes affect
+morning and evening spectra grounded in forward models is needed. Focusing on WASP-39b,
+we compare simulations from five different general circulation models (GCMs), including
+one simulating disequilibrium thermochemistry and one with cloud radiative feedback,
+to the recent WASP-39b limb asymmetry observations. We also post-process the temperature
+structures of all simulations with a 2D photochemical model and one simulation with
+a cloud microphysics model. Although the temperatures predicted by the different
+models vary considerably, the models are remarkably consistent in their predicted
+morning&amp;ndash;evening temperature differences. Several equilibrium-chemistry simulations
+predict strong methane features in the morning spectrum, not seen in the observations.
+When including disequilibrium processes, horizontal transport homogenizes methane,
+and these methane features disappear. However, even after including photochemistry
+and clouds, our models still cannot reproduce the observed ∼2000 ppm asymmetry
+in the CO2 feature. A combination of factors, such as varying metallicity and
+unexplored parameters in cloud models, may explain the discrepancy, emphasizing
+the need for future models integrating cloud microphysics and feedback across a
+broader parameter space.&lt;/p&gt;
 </description>
     </item>
     
