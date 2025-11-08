@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Article-Journal | Nicolas Iro</title><link>https://ironick.github.io/publication-type/article-journal.html</link><atom:link href="https://ironick.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml"/><description>Article-Journal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://ironick.github.io/media/logo_hu3811882414585691295.png</url><title>Article-Journal</title><link>https://ironick.github.io/publication-type/article-journal.html</link></image><item><title>First JWST thermal phase curves of temperate terrestrial exoplanets reveal no thick atmosphere around TRAPPIST-1 b and c</title><link>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</guid><description>&lt;p>We report JWST/MIRI 15 μm phase curves of TRAPPIST-1 b and c, revealing
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Article-Journal | Nicolas Iro</title><link>https://ironick.github.io/publication-type/article-journal.html</link><atom:link href="https://ironick.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml"/><description>Article-Journal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://ironick.github.io/media/logo_hu3811882414585691295.png</url><title>Article-Journal</title><link>https://ironick.github.io/publication-type/article-journal.html</link></image><item><title>Horizontal and vertical exoplanet thermal structure from a JWST spectroscopic eclipse map</title><link>https://ironick.github.io/publications/2025-ar-xiv-251024708-c.html</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ar-xiv-251024708-c.html</guid><description>&lt;p>Highly-irradiated giant exoplanets known as &amp;lsquo;&amp;lsquo;ultra-hot Jupiters&amp;rsquo;&amp;rsquo; are
+anticipated to exhibit large variations of atmospheric temperature and chemistry
+as a function of longitude, latitude, and altitude. Previous observations have
+hinted at these variations, but the existing data have been fundamentally restricted
+to probing hemisphere-integrated spectra, thereby providing only coarse information
+on atmospheric gradients. Here we present a spectroscopic eclipse map of an extrasolar
+planet, resolving the atmosphere in multiple dimensions simultaneously. We analyze
+a secondary eclipse of the ultra-hot Jupiter WASP-18b observed with the NIRISS
+instrument on JWST. The mapping reveals weaker longitudinal temperature gradients
+than were predicted by theoretical models, indicating the importance of hydrogen
+dissociation and/or nightside clouds in shaping global thermal emission. Additionally,
+we identify two thermally distinct regions of the planet&amp;rsquo;s atmosphere: a &amp;lsquo;&amp;lsquo;hotspot&amp;rsquo;&amp;rsquo;
+surrounding the substellar point and a &amp;ldquo;ring&amp;rdquo; near the dayside limbs. The hotspot
+region shows a strongly inverted thermal structure due to the presence of optical
+absorbers and a water abundance marginally lower than the hemispheric average,
+in accordance with theoretical predictions. The ring region shows colder temperatures
+and poorly constrained chemical abundances. Similar future analyses will reveal
+three-dimensional thermal, chemical, and dynamical properties of a broad range
+of exoplanet atmospheres.&lt;/p></description></item><item><title>First JWST thermal phase curves of temperate terrestrial exoplanets reveal no thick atmosphere around TRAPPIST-1 b and c</title><link>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ironick.github.io/publications/2025-ar-xiv-250902128-g.html</guid><description>&lt;p>We report JWST/MIRI 15 μm phase curves of TRAPPIST-1 b and c, revealing
 thermal emission consistent with their irradiation levels, assuming no efficient
 heat redistribution. We find that TRAPPIST-1 b shows a high dayside brightness temperature
 (490 ± 17 K), no significantly detectable nightside emission (F[b, Night,
