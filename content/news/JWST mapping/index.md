@@ -13,7 +13,7 @@ title: JWST WASP-18b multidimensional mapping
 links:
   - icon_pack: fas #custom
     icon: satellite #custom/ESA
-    name: ESA Cheops
+    name: JWST
     url: 'https://science.nasa.gov/mission/webb/'
 type: "news"
 layout: "single"
