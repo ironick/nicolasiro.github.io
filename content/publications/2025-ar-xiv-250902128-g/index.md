@@ -35,7 +35,7 @@ authors:
 - Julien de Wit
 - Thomas P. Greene
 - Renyu Hu
-- Nicolas Iro
+- "**Nicolas Iro**"
 - Laura Kreidberg
 - Pierre-Olivier Lagage
 - Jacob Lustig-Yaeger
