@@ -5,12 +5,43 @@
     <link>http://localhost:1313/tag/jwst.html</link>
       <atom:link href="http://localhost:1313/tag/jwst/index.xml" rel="self" type="application/rss+xml" />
     <description>JWST</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_a8d074ae3d848875.png</url>
       <title>JWST</title>
       <link>http://localhost:1313/tag/jwst.html</link>
     </image>
+    
+    <item>
+      <title>JWST WASP-18b multidimensional mapping</title>
+      <link>http://localhost:1313/news/jwst-mapping.html</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/jwst-mapping.html</guid>
+      <description>&lt;p&gt;Two-dimensional maps from the Eigenspectra method for each of the 25 spectroscopic bins.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41550-025-02666-9/MediaObjects/41550_2025_2666_Fig1_HTML.png?as=webp&#34; alt=&#34;alt&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;../../publications/2025-ar-xiv-251024708-c.html&#34;&gt;Article&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>JWST</title>

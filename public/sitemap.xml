@@ -14,19 +14,25 @@
   <url>
     <loc>http://localhost:1313/cv/hamburg.html</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/tag/jwst.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/news/jwst-mapping.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/news/index.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/publication-type/article-journal.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tag/earth-and-planetary-astrophysics.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/2025-ar-xiv-251024708-c.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/index.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/publication_types/index.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publications/index.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/tags/index.html</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/news/cheops-wasp-18b.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -40,11 +46,7 @@
   <url>
     <loc>http://localhost:1313/research/jwst.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/jwst.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/publications/2025-ar-xiv-250921588-s.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/news/index.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/research/index.html</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
