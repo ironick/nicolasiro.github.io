@@ -14,6 +14,14 @@
   <url>
     <loc>http://localhost:1313/cv/hamburg.html</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://localhost:1313/cv/keele.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/cv/gsfc.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/cv/uf.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/cv/lesia.html</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/tag/jwst.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/news/jwst-mapping.html</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>

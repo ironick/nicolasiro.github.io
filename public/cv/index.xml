@@ -87,5 +87,74 @@
 </description>
     </item>
     
+    <item>
+      <title>Postdoctoral Researcher 2010--2012</title>
+      <link>http://localhost:1313/cv/keele.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/keele.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Astrophysics Group, Keele University, UK.&lt;/p&gt;
+&lt;p&gt;Exoplanet research in the WASP project, Contact: C. Hellier&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bringing a theoretical insight in the WASP project&lt;/li&gt;
+&lt;li&gt;Participating to the characterization of the WASP planets by modelling their atmospheres&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASA Postdoctoral Program Fellow 2007--2010</title>
+      <link>http://localhost:1313/cv/gsfc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/gsfc.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt; NASA Goddard Space Flight Center, Planetary Systems Laboratory, Greenbelt, MD, USA.&lt;/p&gt;
+&lt;p&gt;Optical and Infrared Detection and Characterization of Exoplanets, Contact: D. Deming&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelling the atmosphere of extrasolar planets.&lt;/li&gt;
+&lt;li&gt;Developing a time-dependent radiative transfer code that allows to model a planet under time-varying conditions due to rotation, eccentricity, …&lt;/li&gt;
+&lt;li&gt;Writing proposal for High Performance Computing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Associate 2005--2007</title>
+      <link>http://localhost:1313/cv/uf.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/uf.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Department of Physics, Univ. of Florida, Gainesville, FL, USA.&lt;/p&gt;
+&lt;p&gt;Cassini CIRS data analysis and interpretation of Saturn, Contact: Prof. K. Matcheva&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzing the spectral data of the atmosphere of Saturn by the Cassini/CIRS instrument.&lt;/li&gt;
+&lt;li&gt;Implementing and use a retrieval code to constraint the thermal and cloud properties of Saturn’s
+atmosphere.&lt;/li&gt;
+&lt;li&gt;Continuing modelling research on exoplanet atmospheres.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Doctoral Researcher 2001-2004</title>
+      <link>http://localhost:1313/cv/lesia.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/lesia.html</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-globe  pr-1 fa-fw&#34;&gt;&lt;/i&gt; LESIA, Observatoire de Paris, France.&lt;/p&gt;
+&lt;p&gt;Modelling of extrasolar giant planets atmosphere, Advisors: B. Bézard &amp;amp; T. Guillot&lt;/p&gt;
+&lt;p&gt;Tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing a radiative transfer code for the modelling of extrasolar planets atmosphere&lt;/li&gt;
+&lt;li&gt;Including new opacity sources&lt;/li&gt;
+&lt;li&gt;improving the stability for the deeper pressures&lt;/li&gt;
+&lt;li&gt;implementing a time-dependent method for the thermal structure and spectra of exoplanets&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
