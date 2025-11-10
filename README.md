@@ -1,2 +1,2 @@
 # nicolasiro.github.io
-Dr. Nicolas Iro's acadenic website
+Dr. Nicolas Iro's academic website
