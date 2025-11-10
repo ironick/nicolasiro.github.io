@@ -18,8 +18,8 @@ role: Exoplanetary Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institution
-    url: nicolasiro.com
+  - name: Institution TBD
+    url: https://nicolas-iro.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: Planetary scientist modelling exoplanet atmospheres.
