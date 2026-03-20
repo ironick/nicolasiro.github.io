@@ -10,7 +10,7 @@ weight: 50
 summary: "Theoretical Meteorology Group, Klimacampus - University of Hamburg, Germany. Planetary Atmospheres research, Contact: V. Lucarini"
 tags:
 - Experience
-title: Postdoctoral Researcher 2012--2027
+title: Postdoctoral Researcher 2012--2017
 #subtitle: DLR
 type: "CV"
 layout: "single"
